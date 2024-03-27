@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+Citiți [lista de probleme deja cunoscute](https://github.com/LoteriaRomana/bilete.loto.ro/blob/main/KNOWN_ISSUES.md) înainte de a reporta aceleasi probleme!
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
