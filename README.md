@@ -6,4 +6,6 @@ Scopul lui este facilitarea comunicării eventualelor probleme *tehnice* întâm
 
 Citirea lor este garantată însă datorită volumului mare de activități, nu și răspunsurile.
 
+Pentru orice alte categorii de situații utilizați canalele de comunicare disponibile în site-ul principal.
+
 Mulțumim pentru înțelegere.
